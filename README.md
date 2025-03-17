@@ -1,23 +1,10 @@
-# AgriHub
-
-## Introduction
-We’re thrilled to introduce AgriHub, your new go-to platform designed to make farming easier and more connected than ever before. AgriHub is all about bringing farmers and buyers together in one place, helping you manage your farm, connect with others, and find the resources you need to succeed.
-
-## Creators
-- [Siddharth M](https://github.com/Siddharth-magesh)
-- Pranesh Kumar
-- Arjun VL
-- Waatson
-
-![AgriHub Main Page](https://github.com/Siddharth-magesh/Agri-Hub/blob/main/static/images/Home%20Page.png)
-
 ## Installation and Running
 1. Download anaconda in your local system from the given link (https://www.anaconda.com/download)
     if you have already downloaded it, move to the next step.
    
 2. Clone the repository from GitHub:
     ```bash
-    git clone https://github.com/Siddharth-magesh/Agri-Hub.git
+    git clone 
     ```
     This command creates a local copy of the AgriHub project on your machine.
 
